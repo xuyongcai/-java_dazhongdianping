@@ -1,5 +1,5 @@
 *.class
-
+ 
 #package file
 #要对接支付宝，不能去掉jar文件
 *.war
